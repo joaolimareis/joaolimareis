@@ -1,5 +1,12 @@
 ### Olá! Eu sou o João Victor Reis 👾
-![Working on Backend](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBraXZjeXpiMjg0emo2Mzk5NGY1dGMzMTZkZmx3eTJtdWlrM3Y4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBraXZjeXpiMjg0emo2Mzk5NGY1dGMzMTZkZmx3eTJtdWlrM3Y4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400"/>
+</div>
+
+<img align="center" alt="C#" src="https://learn.microsoft.com/dotnet/media/logo_csharp.png" width="100"/>
+
+---
 
 Atualmente sou Desenvolvedor Backend com foco em **Node.js**, **JavaScript** e **SQL**, mas estou em transição de carreira para me tornar um **Backend Developer focado em Segurança com C# / .NET**.
 
@@ -15,9 +22,9 @@ Atualmente sou Desenvolvedor Backend com foco em **Node.js**, **JavaScript** e *
 ## 🖥️ Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img align="center" alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img align="center" alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
@@ -76,4 +83,3 @@ Atualmente estou estudando e me especializando para atuar com:
 ---
 
 Se quiser saber mais ou bater um papo sobre desenvolvimento seguro, me chama no LinkedIn! 🚀
-
