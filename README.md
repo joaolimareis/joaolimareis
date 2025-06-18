@@ -19,7 +19,7 @@ Atualmente sou Desenvolvedor Backend com foco em **Node.js**, **JavaScript** e *
 
 ---
 
-## 🖥️ Tecnologias que eu uso no meu dia a dia
+## 🖥️ Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
