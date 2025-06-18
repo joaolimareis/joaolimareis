@@ -8,10 +8,6 @@
 
 ---
 
-Atualmente sou Desenvolvedor Backend com foco em **Node.js**, **JavaScript** e **SQL**, mas estou em transição de carreira para me tornar um **Backend Developer focado em Segurança com C# / .NET**.
-
----
-
 ## 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaolimareis/)
@@ -37,7 +33,7 @@ Atualmente sou Desenvolvedor Backend com foco em **Node.js**, **JavaScript** e *
 
 ---
 
-## 🎓 Aprendendo novas tecnologias (Transição para Backend .NET + Segurança)
+## 🎓 Aprendendo novas tecnologias
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -54,52 +50,8 @@ Atualmente sou Desenvolvedor Backend com foco em **Node.js**, **JavaScript** e *
 
 ---
 
-## ✅ Sobre minha transição para Backend Seguro com C#
-
-Atualmente estou estudando e me especializando para atuar com:
-
-- Desenvolvimento de **APIs REST seguras com ASP.NET Core**
-- **Autenticação e Autorização** com **JWT** e **OAuth2**
-- Proteção de APIs contra **OWASP Top 10**
-- Boas práticas de **Clean Architecture** e **SOLID**
-- **Testes automatizados** com **xUnit** e **Moq**
-- Uso de **Swagger** para documentação de APIs
-- Deploy com **Docker** e **GitHub Actions**
-
----
-
-### 🛠️ Tecnologias que estou estudando para essa transição:
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-    <img align="center" alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-    <img align="center" alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-    <img align="center" alt="OAuth2" src="https://img.shields.io/badge/OAuth2-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img align="center" alt="Swagger" src="https://img.shields.io/badge/Swagger-%23Clojure.svg?style=for-the-badge&logo=swagger&logoColor=white" />
-    <img align="center" alt="OWASP" src="https://img.shields.io/badge/OWASP%20Top%2010-critical?style=for-the-badge&logo=owasp&logoColor=white" />
-    <img align="center" alt="xUnit" src="https://img.shields.io/badge/xUnit.net-AD2C3C?style=for-the-badge&logo=.net&logoColor=white" />
-    <img align="center" alt="Moq" src="https://img.shields.io/badge/Moq-lightgrey?style=for-the-badge&logo=.net&logoColor=black" />
-    <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-    <img align="center" alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white" />
-</div>
-
----
-
 ## 📈 Estatísticas GitHub
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolimareis&show_icons=true&theme=tokyonight)
 
----
-
-## 🚀 Próximos passos do meu aprendizado:
-
-- Aprimorar o domínio de **.NET Core**
-- Criar projetos reais de **APIs Seguras**
-- Aprender sobre **Autenticação Federada (OAuth2 / OpenID Connect)**
-- Avançar nos conceitos de **DevSecOps**
-
----
-
-Se quiser saber mais ou bater um papo sobre desenvolvimento seguro, me chama no LinkedIn! 🚀
 
