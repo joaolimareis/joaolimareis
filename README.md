@@ -1,4 +1,5 @@
 ### Olá! Eu sou o João Victor Reis 👾
+![Working on Backend](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBraXZjeXpiMjg0emo2Mzk5NGY1dGMzMTZkZmx3eTJtdWlrM3Y4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 Atualmente sou Desenvolvedor Backend com foco em **Node.js**, **JavaScript** e **SQL**, mas estou em transição de carreira para me tornar um **Backend Developer focado em Segurança com C# / .NET**.
 
@@ -75,3 +76,4 @@ Atualmente estou estudando e me especializando para atuar com:
 ---
 
 Se quiser saber mais ou bater um papo sobre desenvolvimento seguro, me chama no LinkedIn! 🚀
+
