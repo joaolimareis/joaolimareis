@@ -4,7 +4,10 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBraXZjeXpiMjg0emo2Mzk5NGY1dGMzMTZkZmx3eTJtdWlrM3Y4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400"/>
 </div>
 
-<img align="center" alt="C#" src="https://learn.microsoft.com/dotnet/media/logo_csharp.png" width="100"/>
+<img align="center" alt="C#" src="https://learn.microsoft.com/dotnet/media/logo_csharp.png" width="100"/> <img align="center" alt="JS" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png" width="100"/> <img align="center" alt="react" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" width="100"/>  <img align="center" alt="node" src="https://1.bp.blogspot.com/-sqAjIvOtpXI/XYoCmqOyMwI/AAAAAAAAJig/CowR8wgEauEs-RXN2IPmLYkC7NHoHuA3gCLcBGAsYHQ/s1600/node-js-logo.png" width="100"/>
+
+
+
 
 ---
 
@@ -29,26 +32,12 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img align="center" alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
     <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
 
 ---
 
-## 🎓 Aprendendo novas tecnologias
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-    <img align="center" alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-    <img align="center" alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-    <img align="center" alt="OAuth2" src="https://img.shields.io/badge/OAuth2-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img align="center" alt="Swagger" src="https://img.shields.io/badge/Swagger-%23Clojure.svg?style=for-the-badge&logo=swagger&logoColor=white" />
-    <img align="center" alt="OWASP" src="https://img.shields.io/badge/OWASP%20Top%2010-critical?style=for-the-badge&logo=owasp&logoColor=white" />
-    <img align="center" alt="xUnit" src="https://img.shields.io/badge/xUnit.net-AD2C3C?style=for-the-badge&logo=.net&logoColor=white" />
-    <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-    <img align="center" alt="CI/CD" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white" />
-</div>
-
----
 
 ## 📈 Estatísticas GitHub
 
