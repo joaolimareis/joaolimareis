@@ -4,7 +4,7 @@ Sobre mim
 
 -  Desevolvedor em formação, focado em Cybersecurity e Backend
 -  Gosto de matemática, algoritmos e lógica de programação
--  Atualmente focando em c#, .NET e ASP NET Core como stack principal
+-  Atualmente focando em segurança de APIs
 -  Buscando criar os próprios projetos e se destacar no mundo Tech
 -  Trabalhando como Auxiliar de TI no setor de Núcleo de Processos, uso JS, Node Js e React JS
   
