@@ -2,7 +2,7 @@
 
 Sobre mim
 
--  Desevolvedor em formação, focado em Cybersecurity e Backend
+-  Desevolvedor Backend em Cybersecurity
 -  Gosto de matemática, algoritmos e lógica de programação
 -  Atualmente focando em segurança de APIs
 -  Buscando criar os próprios projetos e se destacar no mundo Tech
