@@ -6,7 +6,7 @@ Sobre mim
 -  Gosto de matemática, algoritmos e lógica de programação
 -  Atualmente focando em segurança de APIs
 -  Buscando criar os próprios projetos e se destacar no mundo Tech
--  Trabalhando como Auxiliar de TI no setor de Núcleo de Processos, uso JS, Node Js e React JS
+-  Trabalhando como Auxiliar de TI no setor de Núcleo de Processos, uso JS, Node Js, React JS, Python e Django
   
 
 ### Tecnologias que eu uso no meu dia a dia 
