@@ -23,11 +23,6 @@
 </div>
 
 
-  <div>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpwMjQybWJ3bDU4eDlodWh6MWlpOGY0a3o2MWQzbWxiYmFxOG0ycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif" width="400" alt="Coding GIF" />
-
-  </div>
-
 </div>
 
 
